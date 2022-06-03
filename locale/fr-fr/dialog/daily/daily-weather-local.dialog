@@ -1,3 +1,5 @@
-{day} il fera {condition}, avec des températures comprises entre {high_temperature} et {low_temperature} degrés
-{day} il fera entre {high_temperature} et {low_temperature} degrés, avec des conditions de {condition}
-les prévisions pour {day} annoncent des températures comprises entre {high_temperature} et {low_temperature} degrés
+{day} attendez {condition}, avec un maximum de {high_temperature} et un minimum de {low_temperature}
+Attendez-vous à {condition}, avec un maximum de {high_temperature} et un minimum de {low_temperature} {day}
+{day} le maximum sera {high_temperature} et le minimum {low_temperature}, avec {condition}
+{day} il fera {condition} avec un maximum de {high_temperature} et un minimum de {low_temperature}
+La prévision {day} est {condition} avec un maximum de {high_temperature} et un minimum de {low_temperature}
